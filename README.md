@@ -1,5 +1,5 @@
 # covid-project-challenges
-Aiming to cpmplete ten system designing projects during covid-19 pandemic period.
+Aiming to complete ten system designing projects during covid-19 pandemic period.
 
 ## projects
 
