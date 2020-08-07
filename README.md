@@ -3,9 +3,9 @@ Aiming to complete ten system designing projects during covid-19 pandemic period
 
 ## projects
 
-|  name 	|   language	|   status	|  cycle 	|  github 	| wiki 	|
-|---	|---	|---	|---	|---	|---	|
-|  ecomgem 	|  ruby 	| active 	|   not started	|  [ecomgem][4] 	|  - 	|
+|  name 	|   language	|   status	|  cycle 	| wiki 	|
+|---	|---	|---	|---	|---	|
+|  [ecomgem][4] 	|  ruby 	| active 	|  not started	|  - 	|
 
 
 
